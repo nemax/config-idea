@@ -1,0 +1,58 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="#xdebugger.evaluate.splitter" value="0.2679856" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7416546" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DiffRequestProcessor.BottomComponentSplitter" value="0.7934473" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.1370802" />
+    <property name="INSPECTION_FILTER_HISTORY" value="serial&#10;seriali&#10;serializable&#10;seri&#10;serializ" />
+    <property name="KEYMAP" value="delo&#10;delom" />
+    <property name="LiveContextsPanel[0]" value="0.14015417" />
+    <property name="LiveContextsPanel[1]" value="0.43194783" />
+    <property name="LiveContextsPanel[2]" value="0.28735632" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="javadoc&#10;lombok&#10;lombo&#10;sub&#10;groov" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15278839" />
+    <property name="SearchEveryWhereHistory" value="Optional&#10;String&#10;GB28181&#10;BindDsjUs&#10;BindDsjUserHandler" />
+    <property name="SettingsSearchHistory" value="Template&#10;plugin&#10;jdk&#10;inspect&#10;java" />
+    <property name="SplitFileEditor.Proportion" value="0.8254756" />
+    <property name="SpringBeansModulesPanel[0]" value="0.1370802" />
+    <property name="SpringBeansModulesPanel[1]" value="0.15898252" />
+    <property name="SpringBeansModulesPanel[2]" value="0.18921477" />
+    <property name="SpringBeansModulesPanel[3]" value="0.23364486" />
+    <property name="SpringMvcModulesPanel[0]" value="0.1370802" />
+    <property name="SpringMvcModulesPanel[1]" value="0.15898252" />
+    <property name="SpringMvcModulesPanel[2]" value="0.48865783" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.1370802" />
+    <property name="android-component-compatibility-check" value="1539848118698" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="dir.diff.panel.divider.location" value="49" />
+    <property name="evlsprt3.181" value="17" />
+    <property name="file.chooser.recent.files" value="H:/Aloha/Working/PROJ_Source_Code/LEVAM-28181/uom/uom-update-manager&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-28181/uom/uom-device-manager&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-BRANCH-3.4.1-shenzhen/kernel.ser-access/kernel.ser-access-signalling-DGWAdapter&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-BRANCH-3.4.1-shenzhen/kernel.ser-access/kernel.ser-access-signalling-workstation&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-BRANCH-3.4.1-shenzhen/kernel.ser-access/kernel.ser-access-signalling-terminal-4g-v2&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-BRANCH-3.4.1-shenzhen/kernel.ser-biz/kernel.ser-biz-record-manager&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-BRANCH-3.4.1-shenzhen/kernel.ser-biz/kernel.ser-biz-ondemand&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-28181/uom/no-package/uom-gb28181-common&#10;H:/Aloha/Working/PROJ_Source_Code/common-GB28181-cascading-dataexchange&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-SHENZHEN/3.1.0/1.proj-modules/kernel.ser-GB28181-cascading-dataexchange-JYAdapter&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-SHENZHEN/3.1.0/1.proj-modules/kernel.ser-storage-Stream-JYAdapter&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM/kernel.ser-biz/kernel.ser-biz-ondemand&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM/kernel.ser-access/kernel.ser-access-signalling-terminal-4g-v2&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-28181/uom/no-package/uom-device-manager-rpc&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-BRANCH-3.4.1-shenzhen/uom/no-package/uom-device-manager-rpc&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-28181/kernel.ser-access/kernel.ser-access-signalling-DGWAdapter&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-BRANCH-3.4.1-shenzhen/kernel.ser-access/no-package/kernel.ser-access-signalling-terminal-qpid-proxy-message-channel&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM/uom/uom-device-manager&#10;H:/Aloha/Working/PROJ_Source_Code/MyProj/springboot&#10;H:/Aloha/Working/PROJ_Source_Code/MyProj/test/redis-value-reader&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM/kernel.ser-biz/kernel.ser-biz-instruct&#10;H:/Aloha/Working/PROJ_Source_Code/MyProj/springboot/mongodb-multi-collection-test&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM/auth/auth-cas&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-SHENZHEN/3.1.0/1.proj-modules/kernel.ser-access-signalling-DGWAdapter&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-28181/uom/uom-sys-license&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-28181/uom/uom-device-manager/src/main/java/com/goldmsg/leuom/device/gb28181/dao/entity&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-BRANCH-3.4.1-shenzhen/uom/uom-device-manager&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-BRANCH-3.4.1-shenzhen/auth/no-package/auth-cas-common&#10;H:/Aloha/Working/PROJ_Source_Code/MyProj/test/h2-database-test&#10;H:/Aloha/Working/PROJ_Source_Code/LEVAM-BRANCH-3.4.1-shenzhen/uom/uom-device-manager/src/main/java/com/goldmsg/leuom/device/gb28181/dao/entity" />
+    <property name="file.gist.reindex.count" value="84143" />
+    <property name="installed.kotlin.plugin.version" value="1.2.41-release-IJ2018.1-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.lastUpdateCheck" value="1527079724442" />
+    <property name="lastTip" value="52" />
+    <property name="plugins.preselection.path" value="H:/Aloha/Software/开发环境/IDEA/插件/jrebel" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="search.everywhere.max.popup.width" value="780" />
+    <property name="spring.initializr.service.url.history" value="http://127.0.0.1:6213&#10;http://127.0.0.1:8234&#10;http://127.0.0.1:8086" />
+    <property name="spring.initializr.service.url.last" value="http://127.0.0.1:6213" />
+    <property name="ts.lib.d.ts.version" value="2.8.1" />
+    <property name="vcs.history.splitter.proportion" value="0.6559486" />
+  </component>
+</application>

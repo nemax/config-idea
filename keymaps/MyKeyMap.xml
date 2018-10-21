@@ -1,0 +1,5 @@
+<keymap version="1" name="MyKeyMap" parent="$default">
+  <action id="delombokAny">
+    <keyboard-shortcut first-keystroke="alt l" second-keystroke="alt d" />
+  </action>
+</keymap>

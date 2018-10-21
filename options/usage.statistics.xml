@@ -1,0 +1,678 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="63" />
+      <entry action="$Cut" count="6" />
+      <entry action="$Delete" count="51" />
+      <entry action="$Paste" count="9" />
+      <entry action="$Redo" count="13" />
+      <entry action="$SelectAll" count="163" />
+      <entry action="$Undo" count="1966" />
+      <entry action="ActivatePowerEnable" count="1" />
+      <entry action="ActivateStructureToolWindow" count="55" />
+      <entry action="ActivateTODOToolWindow" count="1" />
+      <entry action="Back" count="7" />
+      <entry action="ByteCodeViewer" count="1" />
+      <entry action="ChangeSignature" count="1" />
+      <entry action="ChangesView.AddUnversioned" count="5" />
+      <entry action="ChangesView.Revert" count="10" />
+      <entry action="CheckinFiles" count="37" />
+      <entry action="CheckinProject" count="171" />
+      <entry action="CloseAllEditors" count="8" />
+      <entry action="CloseAllEditorsButActive" count="10" />
+      <entry action="CloseContent" count="52" />
+      <entry action="CodeCompletion" count="3" />
+      <entry action="CollapseAllRegions" count="134" />
+      <entry action="CollapseRegion" count="1" />
+      <entry action="ColorfulSwitch" count="1" />
+      <entry action="ComboSwitchAction" count="1" />
+      <entry action="CommentByLineComment" count="706" />
+      <entry action="Compile" count="5" />
+      <entry action="CompileDirty" count="200" />
+      <entry action="CompileProject" count="1" />
+      <entry action="Console.Jdbc.Execute" count="2" />
+      <entry action="ContextHelp" count="2" />
+      <entry action="CopyElement" count="1" />
+      <entry action="CopyPaths" count="36" />
+      <entry action="CopyReference" count="2" />
+      <entry action="CopyUrl" count="1" />
+      <entry action="CreateRunConfiguration" count="30" />
+      <entry action="DSM.Analyze" count="2" />
+      <entry action="DSM.Close" count="1" />
+      <entry action="DatabaseView.AddActionGroupPopup" count="11" />
+      <entry action="DatabaseView.CloseConnectionAction" count="5" />
+      <entry action="DatabaseView.PropertiesAction" count="18" />
+      <entry action="DatabaseView.SynchronizeAction" count="36" />
+      <entry action="DatabaseView.ToolsPopup" count="1" />
+      <entry action="Debug" count="262" />
+      <entry action="DebugClass" count="1" />
+      <entry action="Debugger.PopFrame" count="1" />
+      <entry action="DecrementWindowHeight" count="1" />
+      <entry action="DialogCancelAction Esc" count="5" />
+      <entry action="DialogOkAction Enter" count="213" />
+      <entry action="EditSource" count="8" />
+      <entry action="EditorBackSpace" count="24185" />
+      <entry action="EditorChooseLookupItem" count="6697" />
+      <entry action="EditorChooseLookupItemReplace" count="54" />
+      <entry action="EditorCodeBlockStart" count="1" />
+      <entry action="EditorCopy" count="5704" />
+      <entry action="EditorCut" count="1328" />
+      <entry action="EditorDelete" count="155" />
+      <entry action="EditorDeleteToWordEnd" count="28" />
+      <entry action="EditorDeleteToWordStart" count="1" />
+      <entry action="EditorDown" count="67048" />
+      <entry action="EditorDownWithSelection" count="12866" />
+      <entry action="EditorDuplicate" count="9" />
+      <entry action="EditorEnter" count="6377" />
+      <entry action="EditorEscape" count="541" />
+      <entry action="EditorIndentSelection" count="8" />
+      <entry action="EditorJoinLines" count="1" />
+      <entry action="EditorLeft" count="22430" />
+      <entry action="EditorLeftWithSelection" count="1433" />
+      <entry action="EditorLineEnd" count="2568" />
+      <entry action="EditorLineEndWithSelection" count="305" />
+      <entry action="EditorLineStart" count="5243" />
+      <entry action="EditorLineStartWithSelection" count="159" />
+      <entry action="EditorMoveToPageBottom" count="1" />
+      <entry action="EditorMoveToPageBottomWithSelection" count="1" />
+      <entry action="EditorMoveToPageTop" count="3" />
+      <entry action="EditorNextWord" count="1262" />
+      <entry action="EditorNextWordWithSelection" count="1075" />
+      <entry action="EditorPageDown" count="44" />
+      <entry action="EditorPageDownWithSelection" count="7" />
+      <entry action="EditorPageUp" count="49" />
+      <entry action="EditorPageUpWithSelection" count="5" />
+      <entry action="EditorPaste" count="5218" />
+      <entry action="EditorPreviousWord" count="966" />
+      <entry action="EditorPreviousWordWithSelection" count="5345" />
+      <entry action="EditorRight" count="31875" />
+      <entry action="EditorRightWithSelection" count="807" />
+      <entry action="EditorScrollDown" count="17" />
+      <entry action="EditorScrollUp" count="14" />
+      <entry action="EditorSplitLine" count="4" />
+      <entry action="EditorStartNewLine" count="6" />
+      <entry action="EditorTab" count="395" />
+      <entry action="EditorTextEnd" count="250" />
+      <entry action="EditorTextEndWithSelection" count="29" />
+      <entry action="EditorTextStart" count="181" />
+      <entry action="EditorTextStartWithSelection" count="7" />
+      <entry action="EditorToggleCase" count="22" />
+      <entry action="EditorToggleInsertState" count="11" />
+      <entry action="EditorUnindentSelection" count="11" />
+      <entry action="EditorUp" count="50954" />
+      <entry action="EditorUpWithSelection" count="1380" />
+      <entry action="EvaluateExpression" count="249" />
+      <entry action="ExpandAllRegions" count="21" />
+      <entry action="ExpandLiveTemplateByTab" count="4" />
+      <entry action="ExpandRegion" count="5" />
+      <entry action="FileChooser.NewFolder" count="2" />
+      <entry action="Find" count="582" />
+      <entry action="FindInPath" count="413" />
+      <entry action="FindNext" count="4" />
+      <entry action="FindUsages" count="78" />
+      <entry action="Forward" count="1" />
+      <entry action="Generate" count="133" />
+      <entry action="GenerateCoverageReport" count="1" />
+      <entry action="GenerateJavadoc" count="3" />
+      <entry action="Git.Add" count="2" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Pull" count="3" />
+      <entry action="GotoAction" count="1" />
+      <entry action="GotoBookmark2" count="1" />
+      <entry action="GotoBookmark7" count="2" />
+      <entry action="GotoBookmark8" count="3" />
+      <entry action="GotoBookmark9" count="1" />
+      <entry action="GotoClass" count="2" />
+      <entry action="GotoDeclaration" count="2198" />
+      <entry action="GotoFile" count="1" />
+      <entry action="GotoLine" count="78" />
+      <entry action="GotoSuperMethod" count="1" />
+      <entry action="GotoTypeDeclaration" count="1" />
+      <entry action="HTTP.Request.NewFile" count="2" />
+      <entry action="HideAllWindows" count="7" />
+      <entry action="HippieCompletion" count="1" />
+      <entry action="ImportProject" count="1" />
+      <entry action="IncrementWindowHeight" count="1" />
+      <entry action="InferNullity" count="1" />
+      <entry action="Inline" count="1" />
+      <entry action="InspectCode" count="3" />
+      <entry action="IntegrateFiles" count="1" />
+      <entry action="IntroduceParameter" count="2" />
+      <entry action="JRebel Debug" count="1" />
+      <entry action="Jdbc.OpenConsole" count="1" />
+      <entry action="Jdbc.OpenConsole.Any" count="2" />
+      <entry action="Jdbc.OpenEditor.DDL" count="2" />
+      <entry action="Jdbc.OpenEditor.Data" count="3" />
+      <entry action="JumpToLastChange" count="1" />
+      <entry action="Kotlin.NewFile" count="2" />
+      <entry action="MakeModule" count="1" />
+      <entry action="ManageRecentProjects" count="2" />
+      <entry action="Maven.CollapseAll" count="2" />
+      <entry action="Maven.EditRunConfiguration" count="38" />
+      <entry action="Maven.ExecuteGoal" count="5" />
+      <entry action="Maven.Reimport" count="215" />
+      <entry action="Maven.RemoveRunConfiguration" count="2" />
+      <entry action="Maven.ShowSettings" count="118" />
+      <entry action="Maven.ToggleSkipTests" count="1" />
+      <entry action="Maven.UpdateFolders" count="2" />
+      <entry action="Move" count="2" />
+      <entry action="MoveStatementDown" count="96" />
+      <entry action="MoveStatementUp" count="292" />
+      <entry action="NewClass" count="126" />
+      <entry action="NewDir" count="56" />
+      <entry action="NewFile" count="15" />
+      <entry action="NewModule" count="1" />
+      <entry action="NewProject" count="40" />
+      <entry action="NextOccurence" count="1" />
+      <entry action="NextTemplateVariable" count="212" />
+      <entry action="OpenFile" count="299" />
+      <entry action="OptimizeImports" count="102" />
+      <entry action="OverrideMethods" count="4" />
+      <entry action="ParticleSwitch" count="2" />
+      <entry action="PasteMultiple" count="4" />
+      <entry action="ReformatCode" count="2" />
+      <entry action="RenameElement" count="199" />
+      <entry action="RenameFile" count="2" />
+      <entry action="Replace" count="38" />
+      <entry action="ReplaceInPath" count="1" />
+      <entry action="Rerun" count="1151" />
+      <entry action="ResizeToolWindowDown" count="1" />
+      <entry action="Resume" count="1598" />
+      <entry action="RevealIn" count="1" />
+      <entry action="RunClass" count="1" />
+      <entry action="RunToCursor" count="7" />
+      <entry action="SaveAll" count="21968" />
+      <entry action="SearchEverywhere" count="481" />
+      <entry action="ShakeSwitch" count="3" />
+      <entry action="ShowBookmarks" count="4" />
+      <entry action="ShowErrorDescription" count="7" />
+      <entry action="ShowFilePath" count="152" />
+      <entry action="ShowIntentionActions" count="497" />
+      <entry action="ShowProjectStructureSettings" count="30" />
+      <entry action="ShowRecentTests" count="1" />
+      <entry action="ShowSettings" count="118" />
+      <entry action="ShowUmlDiagram" count="8" />
+      <entry action="ShowUmlDiagramPopup" count="7" />
+      <entry action="ShowUsages" count="2" />
+      <entry action="SliceForward" count="2" />
+      <entry action="Springirun.ContextManager" count="1" />
+      <entry action="StepInto" count="80" />
+      <entry action="StepOut" count="1" />
+      <entry action="StepOver" count="2319" />
+      <entry action="Stop" count="785" />
+      <entry action="Subversion.Clenaup" count="1" />
+      <entry action="SynchronizeCurrentFile" count="57" />
+      <entry action="TemplateProjectProperties" count="5" />
+      <entry action="ToggleBookmark" count="7" />
+      <entry action="ToggleBookmarkWithMnemonic" count="2" />
+      <entry action="ToggleLineBreakpoint" count="700" />
+      <entry action="ToggleProjectInspectionAction" count="1" />
+      <entry action="ToolWindowOpenFacet" count="1" />
+      <entry action="ToolWindowOpenSettings" count="2" />
+      <entry action="TypeHierarchy" count="5" />
+      <entry action="UML.Find" count="2" />
+      <entry action="Uml.CollapseNodes" count="1" />
+      <entry action="Uml.ExpandNodes" count="4" />
+      <entry action="Unscramble" count="1" />
+      <entry action="UpdateFiles" count="2" />
+      <entry action="Vcs.IntegrateProject" count="2" />
+      <entry action="Vcs.RefreshStatuses" count="1" />
+      <entry action="Vcs.ShowMessageHistory" count="11" />
+      <entry action="Vcs.ShowTabbedFileHistory" count="10" />
+      <entry action="Vcs.UpdateProject" count="180" />
+      <entry action="ViewBreakpoints" count="19" />
+      <entry action="ViewToolBar" count="1" />
+      <entry action="XDebugger.CopyValue" count="56" />
+      <entry action="XDebugger.MuteBreakpoints" count="141" />
+      <entry action="delombokAny" count="4" />
+      <entry action="delombokData" count="1" />
+      <entry action="jrebel.activate" count="3" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction" count="4" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction" count="3" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction" count="1" />
+      <entry action="synchronizeProject" count="2" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1525614342438" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.smarttype.afternew" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="74" last-shown="0" last-used="1539086567518" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.aslist" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="22" last-shown="0" last-used="1535525644138" shown-count="0" />
+    <feature id="navigation.popup.action" count="1" last-shown="0" last-used="1526992122210" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.recent.search" count="5" last-shown="0" last-used="1534942272115" shown-count="0" />
+    <feature id="editing.completion.replace" count="9" last-shown="1540126699666" last-used="1539585533148" shown-count="20008" />
+    <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.variable.name" count="8435" last-shown="0" last-used="1539872202060" shown-count="0" />
+    <feature id="navigation.popup.file" count="1" last-shown="0" last-used="1534475577661" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="45" last-shown="0" last-used="1539594349439" shown-count="0" />
+    <feature id="editing.completion.smarttype.casting" count="4" last-shown="0" last-used="1539783442594" shown-count="0" />
+    <feature id="db.console.run.intention" count="2" last-shown="0" last-used="1533453033453" shown-count="0" />
+    <feature id="db.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console.execute" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="2197" last-shown="0" last-used="1540004901369" shown-count="0" />
+    <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="4" last-shown="1528191621999" last-used="1534941730423" shown-count="1" />
+    <feature id="navigation.goto.implementation" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.move.moveInner" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.global.member.name" count="1" last-shown="0" last-used="1534263968341" shown-count="0" />
+    <feature id="editing.completion.finishByExclamation" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="41" last-shown="0" last-used="1539331037431" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.copyClass" count="6" last-shown="0" last-used="1539605750132" shown-count="0" />
+    <feature id="move.element.left.right" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="jar.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="706" last-shown="0" last-used="1539698808954" shown-count="0" />
+    <feature id="codeassists.highlight.return" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.chain" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ant.quickfix.CreateProperty" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.toar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="SearchEverywhere" count="470" last-shown="0" last-used="1540126902995" shown-count="0" />
+    <feature id="navigation.popup.class" count="2" last-shown="0" last-used="1534475554170" shown-count="0" />
+    <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.highlight.throws" count="167" last-shown="0" last-used="1539865000290" shown-count="0" />
+    <feature id="db.table.editor.wrapper" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="6677" last-shown="0" last-used="1540129110658" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.array.member" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.postfix" count="1" last-shown="0" last-used="1527055579604" shown-count="0" />
+    <feature id="diagram.show.popup" count="8" last-shown="0" last-used="1533460814409" shown-count="0" />
+    <feature id="refactoring.introduceVariable.incompleteStatement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="12400" last-shown="0" last-used="1540128678847" shown-count="0" />
+    <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console" count="6" last-shown="0" last-used="1536911079478" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.highlight.implements" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="1539871856852" last-used="0" shown-count="5279" />
+    <feature id="codeassist.inspect.batch" count="2" last-shown="0" last-used="1525878991648" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.table.editor" count="27" last-shown="0" last-used="1539051173644" shown-count="0" />
+    <feature id="ant.quickfix.CreateTarget" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassist.locate.duplicates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="2" last-shown="0" last-used="1525880062839" shown-count="0" />
+    <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show" count="8" last-shown="0" last-used="1533460869559" shown-count="0" />
+    <feature id="editing.completion.second.basic" count="1" last-shown="0" last-used="1534235125321" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="46396" />
+      <option name="invocations" value="4218" />
+      <option name="startDate" value="1525708800000" />
+      <option name="dayCount" value="68" />
+      <option name="lastDate" value="1539964800000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="254" />
+      <option name="startDate" value="1525795200000" />
+      <option name="dayCount" value="48" />
+      <option name="lastDate" value="1539792000000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="JAVA [!]com.alibaba.p3c.idea.quickfix.ClassMustHaveAuthorQuickFix" count="3" />
+      <entry name="JAVA codeInspection.AddAssertStatementFix" count="1" />
+      <entry name="JAVA codeInspection.SuppressIntentionActionFromFix" count="14" />
+      <entry name="JAVA codeInspection.actions.CleanupInspectionIntention" count="1" />
+      <entry name="JAVA codeInspection.ex.EditInspectionToolsSettingsAction" count="16" />
+      <entry name="JAVA codeInspection.ex.EntryPointsManagerBase$AddImplicitlyWriteAnnotation" count="1" />
+      <entry name="JAVA codeInspection.javaDoc.JavaDocLocalInspection$AddUnknownTagToCustoms" count="1" />
+      <entry name="JAVA com.siyeh.ig.fixes.AddSerialVersionUIDFix" count="24" />
+      <entry name="JAVA com.siyeh.ipp.imports.ReplaceOnDemandImportIntention" count="3" />
+      <entry name="JAVA com.siyeh.ipp.modifiers.MakePackagePrivateIntention" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.AddExceptionToThrowsFix" count="12" />
+      <entry name="JAVA daemon.impl.quickfix.CreateClassFromUsageFix" count="6" />
+      <entry name="JAVA daemon.impl.quickfix.ImplementAbstractClassMethodsFix" count="1" />
+      <entry name="JAVA daemon.impl.quickfix.ImplementMethodsFix" count="39" />
+      <entry name="JAVA daemon.impl.quickfix.ImportClassFix" count="106" />
+      <entry name="JAVA daemon.impl.quickfix.SurroundWithTryCatchFix" count="1" />
+      <entry name="JAVA intention.impl.AddJavadocIntention" count="1" />
+      <entry name="JAVA jarFinder.JavaFindJarFix" count="2" />
+      <entry name="JAVA lang.java.actions.CreateConstantAction" count="2" />
+      <entry name="JAVA lang.java.actions.CreateMethodAction" count="15" />
+      <entry name="JAVA lang.jvm.actions.JvmClassIntentionActionGroup" count="1" />
+      <entry name="JAVA org.jetbrains.idea.maven.dom.intentions.AddMavenDependencyQuickFix" count="1" />
+      <entry name="JAVA spellchecker.quickfixes.SaveTo" count="1" />
+      <entry name="kotlin org.jetbrains.kotlin.idea.quickfix.ImportFix" count="1" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Analyze -&gt; Analyze Data Flow from Here" count="2" />
+      <entry path="Analyze -&gt; Analyze Dependency Matrix..." count="2" />
+      <entry path="Analyze -&gt; Analyze Stacktrace..." count="1" />
+      <entry path="Analyze -&gt; Infer Nullity..." count="1" />
+      <entry path="Analyze -&gt; Inspect Code..." count="2" />
+      <entry path="Build -&gt; Rebuild Project" count="1" />
+      <entry path="Code -&gt; Reformat Code" count="1" />
+      <entry path="File -&gt; New -&gt; HTTP Request" count="1" />
+      <entry path="File -&gt; New -&gt; Module..." count="1" />
+      <entry path="File -&gt; New -&gt; Open..." count="2" />
+      <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="1" />
+      <entry path="File -&gt; New -&gt; Project..." count="40" />
+      <entry path="File -&gt; Open Recent -&gt; Manage Projects..." count="2" />
+      <entry path="File -&gt; Open Recent -&gt; Open..." count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="126" />
+      <entry path="File -&gt; Open..." count="202" />
+      <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="5" />
+      <entry path="File -&gt; Project Structure..." count="3" />
+      <entry path="File -&gt; Settings..." count="1" />
+      <entry path="Navigate -&gt; Type Hierarchy" count="1" />
+      <entry path="Tools -&gt; Generate JavaDoc..." count="3" />
+      <entry path="VCS -&gt; Git -&gt; Branches..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Pull..." count="3" />
+      <entry path="VCS -&gt; Git -&gt; Show History" count="1" />
+      <entry path="VCS -&gt; Integrate Project" count="2" />
+      <entry path="VCS -&gt; Refresh File Status" count="1" />
+      <entry path="VCS -&gt; Subversion -&gt; Show History" count="1" />
+      <entry path="View -&gt; Toolbar" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+6" count="1" />
+      <entry shortcut="Alt+7" count="55" />
+      <entry shortcut="Alt+D" count="2" />
+      <entry shortcut="Alt+Down" count="75" />
+      <entry shortcut="Alt+Enter" count="497" />
+      <entry shortcut="Alt+F7" count="77" />
+      <entry shortcut="Alt+F8" count="248" />
+      <entry shortcut="Alt+F9" count="6" />
+      <entry shortcut="Alt+Insert" count="133" />
+      <entry shortcut="Alt+Left" count="12" />
+      <entry shortcut="Alt+Right" count="17" />
+      <entry shortcut="Alt+Slash" count="1" />
+      <entry shortcut="Alt+Up" count="12" />
+      <entry shortcut="Backspace" count="24172" />
+      <entry shortcut="Ctrl+2" count="1" />
+      <entry shortcut="Ctrl+7" count="2" />
+      <entry shortcut="Ctrl+8" count="3" />
+      <entry shortcut="Ctrl+9" count="1" />
+      <entry shortcut="Ctrl+A" count="163" />
+      <entry shortcut="Ctrl+Alt+A" count="6" />
+      <entry shortcut="Ctrl+Alt+Down" count="1" />
+      <entry shortcut="Ctrl+Alt+F12" count="152" />
+      <entry shortcut="Ctrl+Alt+F7" count="2" />
+      <entry shortcut="Ctrl+Alt+L" count="1" />
+      <entry shortcut="Ctrl+Alt+Left" count="7" />
+      <entry shortcut="Ctrl+Alt+N" count="1" />
+      <entry shortcut="Ctrl+Alt+O" count="102" />
+      <entry shortcut="Ctrl+Alt+P" count="2" />
+      <entry shortcut="Ctrl+Alt+Right" count="1" />
+      <entry shortcut="Ctrl+Alt+S" count="117" />
+      <entry shortcut="Ctrl+Alt+Shift+S" count="26" />
+      <entry shortcut="Ctrl+B" count="11" />
+      <entry shortcut="Ctrl+Backspace" count="1" />
+      <entry shortcut="Ctrl+C" count="5807" />
+      <entry shortcut="Ctrl+D" count="10" />
+      <entry shortcut="Ctrl+Delete" count="28" />
+      <entry shortcut="Ctrl+Down" count="17" />
+      <entry shortcut="Ctrl+End" count="250" />
+      <entry shortcut="Ctrl+Enter" count="4" />
+      <entry shortcut="Ctrl+Equals" count="5" />
+      <entry shortcut="Ctrl+F" count="594" />
+      <entry shortcut="Ctrl+F1" count="16" />
+      <entry shortcut="Ctrl+F11" count="2" />
+      <entry shortcut="Ctrl+F4" count="4" />
+      <entry shortcut="Ctrl+F6" count="1" />
+      <entry shortcut="Ctrl+F8" count="48" />
+      <entry shortcut="Ctrl+F9" count="200" />
+      <entry shortcut="Ctrl+G" count="78" />
+      <entry shortcut="Ctrl+H" count="4" />
+      <entry shortcut="Ctrl+Home" count="181" />
+      <entry shortcut="Ctrl+Home+Ctrl+Home" count="1" />
+      <entry shortcut="Ctrl+K" count="159" />
+      <entry shortcut="Ctrl+L" count="2" />
+      <entry shortcut="Ctrl+Left" count="966" />
+      <entry shortcut="Ctrl+Left+Ctrl+Left" count="9" />
+      <entry shortcut="Ctrl+N" count="2" />
+      <entry shortcut="Ctrl+NumPad -" count="1" />
+      <entry shortcut="Ctrl+O" count="4" />
+      <entry shortcut="Ctrl+Open Bracket" count="1" />
+      <entry shortcut="Ctrl+Page Down" count="1" />
+      <entry shortcut="Ctrl+Page Up" count="3" />
+      <entry shortcut="Ctrl+R" count="39" />
+      <entry shortcut="Ctrl+Right" count="1262" />
+      <entry shortcut="Ctrl+Right+Ctrl+Right" count="16" />
+      <entry shortcut="Ctrl+S" count="21968" />
+      <entry shortcut="Ctrl+Shift+A" count="1" />
+      <entry shortcut="Ctrl+Shift+Backspace" count="1" />
+      <entry shortcut="Ctrl+Shift+C" count="33" />
+      <entry shortcut="Ctrl+Shift+Down" count="98" />
+      <entry shortcut="Ctrl+Shift+End" count="29" />
+      <entry shortcut="Ctrl+Shift+Equals" count="3" />
+      <entry shortcut="Ctrl+Shift+F" count="413" />
+      <entry shortcut="Ctrl+Shift+F9" count="4" />
+      <entry shortcut="Ctrl+Shift+Home" count="7" />
+      <entry shortcut="Ctrl+Shift+J" count="1" />
+      <entry shortcut="Ctrl+Shift+Left" count="5345" />
+      <entry shortcut="Ctrl+Shift+Minus" count="9" />
+      <entry shortcut="Ctrl+Shift+N" count="1" />
+      <entry shortcut="Ctrl+Shift+NumPad +" count="18" />
+      <entry shortcut="Ctrl+Shift+NumPad -" count="125" />
+      <entry shortcut="Ctrl+Shift+Page Down" count="1" />
+      <entry shortcut="Ctrl+Shift+R" count="1" />
+      <entry shortcut="Ctrl+Shift+Right" count="1075" />
+      <entry shortcut="Ctrl+Shift+Semicolon" count="1" />
+      <entry shortcut="Ctrl+Shift+U" count="22" />
+      <entry shortcut="Ctrl+Shift+Up" count="293" />
+      <entry shortcut="Ctrl+Shift+V" count="4" />
+      <entry shortcut="Ctrl+Shift+Z" count="13" />
+      <entry shortcut="Ctrl+Slash" count="706" />
+      <entry shortcut="Ctrl+Space" count="3" />
+      <entry shortcut="Ctrl+T" count="130" />
+      <entry shortcut="Ctrl+U" count="1" />
+      <entry shortcut="Ctrl+Up" count="14" />
+      <entry shortcut="Ctrl+V" count="5227" />
+      <entry shortcut="Ctrl+X" count="1331" />
+      <entry shortcut="Ctrl+Z" count="1969" />
+      <entry shortcut="Delete" count="284" />
+      <entry shortcut="Down" count="67728" />
+      <entry shortcut="End" count="2568" />
+      <entry shortcut="Enter" count="14070" />
+      <entry shortcut="Escape" count="965" />
+      <entry shortcut="F1" count="2" />
+      <entry shortcut="F11" count="7" />
+      <entry shortcut="F2" count="2" />
+      <entry shortcut="F3" count="290" />
+      <entry shortcut="F4" count="5" />
+      <entry shortcut="F5" count="1" />
+      <entry shortcut="F6" count="2" />
+      <entry shortcut="F7" count="80" />
+      <entry shortcut="F8" count="2319" />
+      <entry shortcut="F9" count="1598" />
+      <entry shortcut="Home" count="5243" />
+      <entry shortcut="Insert" count="11" />
+      <entry shortcut="Left" count="22430" />
+      <entry shortcut="Page Down" count="44" />
+      <entry shortcut="Page Up" count="49" />
+      <entry shortcut="Right" count="31875" />
+      <entry shortcut="Shift+Backspace" count="13" />
+      <entry shortcut="Shift+Delete" count="3" />
+      <entry shortcut="Shift+Down" count="12866" />
+      <entry shortcut="Shift+End" count="305" />
+      <entry shortcut="Shift+Enter" count="7" />
+      <entry shortcut="Shift+F11" count="4" />
+      <entry shortcut="Shift+F6" count="197" />
+      <entry shortcut="Shift+F9" count="1" />
+      <entry shortcut="Shift+Home" count="158" />
+      <entry shortcut="Shift+Left" count="1424" />
+      <entry shortcut="Shift+Page Down" count="7" />
+      <entry shortcut="Shift+Page Up" count="5" />
+      <entry shortcut="Shift+Right" count="791" />
+      <entry shortcut="Shift+Shift" count="481" />
+      <entry shortcut="Shift+Tab" count="11" />
+      <entry shortcut="Shift+Up" count="1380" />
+      <entry shortcut="Space" count="532" />
+      <entry shortcut="Tab" count="476" />
+      <entry shortcut="Up" count="51217" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="ALPHA_COMPARATOR@StructureViewToolbar" count="1" />
+      <entry action="ByteCodeViewer@FileHistoryViewToolbar" count="1" />
+      <entry action="CheckinProject@NavBarToolbar" count="12" />
+      <entry action="Console.Jdbc.Execute@EditorToolbar" count="2" />
+      <entry action="DSM.Close@DsmToolbar" count="1" />
+      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="11" />
+      <entry action="DatabaseView.CloseConnectionAction@ProjectViewToolbar" count="2" />
+      <entry action="DatabaseView.PropertiesAction@ProjectViewToolbar" count="10" />
+      <entry action="DatabaseView.SynchronizeAction@ProjectViewToolbar" count="33" />
+      <entry action="Debug@MainToolbar" count="155" />
+      <entry action="Debug@NavBarToolbar" count="106" />
+      <entry action="Debugger.PopFrame@DebuggerToolbar" count="1" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="2" />
+      <entry action="GenerateCoverageReport@CoverageView" count="1" />
+      <entry action="JRebel Debug@NavBarToolbar" count="1" />
+      <entry action="Jdbc.OpenEditor.DDL@ProjectViewToolbar" count="2" />
+      <entry action="Jdbc.OpenEditor.Data@ProjectViewToolbar" count="3" />
+      <entry action="Maven.CollapseAll@Maven Navigator Toolbar" count="2" />
+      <entry action="Maven.ExecuteGoal@Maven Navigator Toolbar" count="5" />
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="215" />
+      <entry action="Maven.ShowSettings@Maven Navigator Toolbar" count="118" />
+      <entry action="Maven.ToggleSkipTests@Maven Navigator Toolbar" count="1" />
+      <entry action="Maven.UpdateFolders@Maven Navigator Toolbar" count="2" />
+      <entry action="OpenFile@MainToolbar" count="94" />
+      <entry action="Rerun@DebuggerToolbar" count="1147" />
+      <entry action="Rerun@RunnerToolbar" count="4" />
+      <entry action="RunConfiguration@MainToolbar" count="75" />
+      <entry action="RunConfiguration@NavBarToolbar" count="88" />
+      <entry action="RunToCursor@DebuggerToolbar" count="1" />
+      <entry action="SHOW_INHERITED@StructureViewToolbar" count="12" />
+      <entry action="SHOW_PROPERTIES@StructureViewToolbar" count="6" />
+      <entry action="Show Options@ToolWindowHeader" count="40" />
+      <entry action="ShowProjectStructureSettings@NavBarToolbar" count="1" />
+      <entry action="ShowUmlDiagram@Maven Navigator Toolbar" count="3" />
+      <entry action="StepOut@DebuggerToolbar" count="1" />
+      <entry action="Stop@DebuggerToolbar" count="735" />
+      <entry action="Stop@MainToolbar" count="3" />
+      <entry action="Stop@NavBarToolbar" count="2" />
+      <entry action="Stop@RunnerToolbar" count="45" />
+      <entry action="ToolWindowOpenFacet@unknown" count="1" />
+      <entry action="ToolWindowOpenSettings@unknown" count="2" />
+      <entry action="Vcs.ShowMessageHistory@CommitMessage" count="11" />
+      <entry action="Vcs.UpdateProject@NavBarToolbar" count="50" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="19" />
+      <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="141" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="1" />
+      <entry action="com.intellij.coverage.CoverageLineMarkerRenderer$EditCoverageColorsAction@FileHistoryViewToolbar" count="2" />
+      <entry action="com.intellij.coverage.view.CoverageView$FlattenPackagesAction@CoverageView" count="6" />
+      <entry action="com.intellij.database.dataSource.url.ui.ParamEditorBase$FMChooseAction@unknown" count="3" />
+      <entry action="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction@DiffToolbar" count="533" />
+      <entry action="com.intellij.diff.impl.DiffRequestProcessor$MyPrevDifferenceAction@DiffToolbar" count="43" />
+      <entry action="com.intellij.diff.merge.MergeRequestProcessor$MyNextDifferenceAction@DiffToolbar" count="4" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="148" />
+      <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="6" />
+      <entry action="com.intellij.find.EditorSearchSession$ReplaceAction@EditorToolbar" count="2" />
+      <entry action="com.intellij.find.EditorSearchSession$ReplaceAllAction@EditorToolbar" count="35" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="7" />
+      <entry action="com.intellij.find.SearchTextArea$ShowHistoryAction@unknown" count="5" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="461" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="88" />
+      <entry action="com.intellij.find.editorHeaderActions.ToggleMatchCase@EditorToolbar" count="10" />
+      <entry action="com.intellij.find.editorHeaderActions.ToggleSelectionOnlyAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.ToggleWholeWordsOnlyAction@EditorToolbar" count="3" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="18" />
+      <entry action="com.intellij.ide.bookmarks.actions.EditBookmarkDescriptionAction@MasterDetailPopup" count="1" />
+      <entry action="com.intellij.ide.errorTreeView.NewErrorTreeViewPanel$StopAction@CompilerMessagesToolbar" count="1" />
+      <entry action="com.intellij.ide.hierarchy.ViewSubtypesHierarchyAction@TypeHierarchyViewToolbar" count="3" />
+      <entry action="com.intellij.ide.hierarchy.ViewSupertypesHierarchyAction@TypeHierarchyViewToolbar" count="3" />
+      <entry action="com.intellij.ide.hierarchy.type.TypeHierarchyBrowser$1@TypeHierarchyViewToolbar" count="2" />
+      <entry action="com.intellij.ide.plugins.AvailablePluginsManagerMain$MyFilterCategoryAction@PluginManager" count="3" />
+      <entry action="com.intellij.ide.plugins.PluginManagerMain$RefreshAction@PluginManager" count="1" />
+      <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="4" />
+      <entry action="com.intellij.openapi.externalSystem.util.ExternalSystemUtil$3$3$1@BuildView" count="2" />
+      <entry action="com.intellij.openapi.vcs.ex.LineStatusMarkerPopupRenderer$ShowLineStatusRangeDiffAction@toolbar" count="1" />
+      <entry action="com.intellij.spring.boot.initializr.dependencies.DependenciesStepPanel$ChangeSpringBootVersionAction@SpringDependenciesStep" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="3" />
+      <entry action="com.intellij.ui.AutoScrollFromSourceHandler$AutoScrollFromSourceAction@StructureViewToolbar" count="1" />
+      <entry action="com.intellij.ui.AutoScrollToSourceHandler$AutoscrollToSourceAction@StructureViewToolbar" count="2" />
+      <entry action="com.intellij.ui.AutoScrollToSourceHandler$AutoscrollToSourceAction@TypeHierarchyViewToolbar" count="3" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="40" />
+      <entry action="com.intellij.ui.treeStructure.actions.CollapseAllAction@StructureViewToolbar" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction@EditorToolbar" count="4" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction@EditorToolbar" count="3" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction@EditorToolbar" count="1" />
+      <entry action="synchronizeProject@NavBarToolbar" count="2" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="15" />
+      <entry feature="DSM.Analyze" count="1" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="46" />
+      <entry feature="debugger.reload.classes" count="201" />
+      <entry feature="debugger.streams.java.activated" count="5" />
+      <entry feature="diff.DirDiffTableModel" count="3" />
+      <entry feature="diff.DirDiffViewer" count="3" />
+      <entry feature="execute.Application.Coverage" count="3" />
+      <entry feature="execute.Application.Debug" count="1086" />
+      <entry feature="execute.Application.JRebel Debug" count="7" />
+      <entry feature="execute.Application.JRebel Executor" count="1" />
+      <entry feature="execute.Application.Run" count="10" />
+      <entry feature="execute.MavenRunConfiguration.Debug" count="2" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="205" />
+      <entry feature="execute.Remote.Debug" count="123" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="275" />
+      <entry feature="ide.help.ideaInterface.editor" count="2" />
+      <entry feature="ide.settings.Advanced" count="2" />
+      <entry feature="ide.settings.Compiler" count="1" />
+      <entry feature="ide.settings.File and Code Templates" count="5" />
+      <entry feature="ide.settings.Font" count="4" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.Git" count="3" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Importing" count="1" />
+      <entry feature="ide.settings.Inspections" count="17" />
+      <entry feature="ide.settings.Java Compiler" count="8" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Live Templates" count="16" />
+      <entry feature="ide.settings.Maven" count="36" />
+      <entry feature="ide.settings.Plugins" count="11" />
+      <entry feature="ide.settings.Project Structure" count="4" />
+      <entry feature="ide.settings.Runner" count="5" />
+      <entry feature="ide.settings.Subversion" count="1" />
+      <entry feature="ide.settings.activate-power-mode" count="3" />
+      <entry feature="ideaapp.started" count="105" />
+      <entry feature="project.view.pane.PackagesPane" count="24" />
+      <entry feature="project.view.pane.ProjectPane" count="24" />
+      <entry feature="project.view.pane.Scope.Production" count="1" />
+      <entry feature="show.recent.tests.action" count="1" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="388" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="86" />
+      <entry feature="terminal.win" count="11" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA" count="3" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="5" />
+      <entry feature="uml.ShowDiagram.JIGSAW.popup" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="5" />
+      <entry feature="uml.ShowDiagram.MAVEN.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+    </counts>
+  </component>
+  <component name="UsagesStatistic" show-notification="false" />
+</application>
